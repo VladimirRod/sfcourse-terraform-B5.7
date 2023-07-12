@@ -1,0 +1,7 @@
+users:
+  - name: vrodionov
+    groups: sudo
+    shell: /bin/bash
+    sudo: ['ALL=(ALL) NOPASSWD:ALL']
+    ssh-authorized-keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDv/inJhLz+8y9wd0I7+DBjFTWK9ihH7kIfoKXT/65f+yS6cFtIgOIQ0Vu4ZcYv1Qgc+xXXPNZ0c3sJzAzoT+8ka9tf4WZpGipk8IuYwj35LfTWELxjkH4/6X7+7/GI2hKPZjZ5lUEoJgEekuiO5My1bujzd4g6GeLIUB+lUYDnE47QkBSiG4HQsDICv5bQMv9YhH1Evjx1hfvxaY3Hz64v3kVxN72ZctPeSj0Dv7SgdLXPnWDjTwLuMKg4AIYP82aMsdtB/3KLKRH7OX1jfrGvcNAU1WLtkouT1KnSbvW1mwQf5gISENK4BFLjX/zz8lv97w0n+2S0LH8rlaYzlghZwwn1iBJZjVEgy4xGM/tsVxS3cysfoSSeujzvlv+g8sYNQtbGZD909+PgxoS0Q94ONknTIshBluDVJZy4iumD3kjoTEN1E8BUBVVGwhm3YmbV0/TXNK90+77/hS7qK/frwcsHex/mrojoRJotaYuGiKLlyElxQeJSE/Rf4d+MuoE= perss@DESKTOP-6G2AOSN
